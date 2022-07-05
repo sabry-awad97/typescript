@@ -1,0 +1,19 @@
+{
+    "name": "english-thesaurus",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^18.0.1",
+        "@types/prompt-sync": "^4.1.1"
+    },
+    "dependencies": {
+        "difflib-ts": "^1.0.3",
+        "prompt-sync": "^4.2.0"
+    }
+}
