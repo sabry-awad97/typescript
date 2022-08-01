@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "ES2015",
+        "moduleResolution": "node",
+        "noEmitOnError": true,
+        "baseUrl": "./src",
+        "outDir": "./dist",
+        "target": "ESNext",
+        "strictNullChecks": true,
+        "watch": false
+    }
+}
